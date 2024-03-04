@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.3"
+    "doffy-publish-to-npm": "^0.0.1-security",
+    "express": "^4.18.3",
+    "get-npm-package-version": "^1.0.6"
   }
 }
